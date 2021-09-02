@@ -1,6 +1,6 @@
 ### Hi there,I'm Langdon Lin 👋
 
-[![SuperLangdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperLangdon&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperLangdon&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="SuperLangdon's GitHub stats"/>
 
 An amateur developer based in China, currently working on a university.
 
