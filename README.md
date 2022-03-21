@@ -7,4 +7,4 @@ An amateur developer based in China, currently working in a university. work on 
 - Read more about my [Website](https://superlangdon.cn/)
 - Talk with me by [Email](mailto:langdon.lin@protonmail.com) or [Telegram](https://t.me/GeniusLangdon)
 - Follow me on [Twitter](https://twitter.com/CyberLangdon) or [Telegram channel](https://t.me/langdonspublic)
-- 
+- Thank you for your attention ❤
