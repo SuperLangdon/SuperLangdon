@@ -4,7 +4,7 @@
 
 An amateur developer based in China, currently working in a university. work on some projects from time to time.（Most of them are now in private. Of course, I will consider opensourse them at the right moment.）
 
-- Read more about me in my [Website](https://superlangdon.cn/)
+- Read more about me in my [Website](https://langdon.one/)
 - Talk with me by [Email](mailto:langdon.lin@protonmail.com) or [Telegram](https://t.me/GeniusLangdon)
 - Follow me on [Twitter](https://twitter.com/CyberLangdon) or [Telegram channel](https://t.me/langdonspublic)
 - Thank you for your attention. ❤
