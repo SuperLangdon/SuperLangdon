@@ -1,10 +1,11 @@
-### Hi there, I'm Langdon Lin 👋
+### Hi there, I'm Langdon 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperLangdon&count_private=true&show_icons=true&theme=swift&include_all_commits=true" alt="SuperLangdon's GitHub stats"/>
 
 An amateur developer based in China, currently working in a university. work on some projects from time to time.（Most of them are now in private. Of course, I will consider opensourse them at the right moment.）
 
-- Read more about me in my [Website](https://langdon.one/)
-- Talk with me by [Email](mailto:langdon.lin@protonmail.com) or [Telegram](https://t.me/GeniusLangdon)
+- Mandarin\English user.
+- More about me in my [Website](https://langdon.one/)
+- Chat with me by [Email](mailto:email@langdon.one) or [Telegram](https://t.me/GeniusLangdon)
 - Follow me on [Twitter](https://twitter.com/CyberLangdon) or [Telegram channel](https://t.me/langdonspublic)
 - Thank you for your attention. ❤
