@@ -6,6 +6,6 @@ An amateur developer based in China, currently working in a university. work on 
 
 - Mandarin\English user.
 - More about me in my [Website](https://langdon.one/).
-- Chat with me by [Email](mailto:email@langdon.one) or [Telegram](https://t.me/GeniusLangdon) ,or join [my group](https://t.me/aqu4mar1n3).
+- Chat with me by [Email](mailto:email@langdon.one) or [Telegram](https://t.me/GeniusLangdon) ,or join my [Group](https://t.me/aqu4mar1n3).
 - Follow me on [Twitter](https://twitter.com/CyberLangdon) or [Telegram channel](https://t.me/sapphe1r0s).
 - Thank you for your attention. ❤
