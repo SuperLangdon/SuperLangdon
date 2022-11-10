@@ -1,4 +1,4 @@
-## Hi there, I'm Langdon 👋
+# Hi there, I'm Langdon 👋
 #### Amateur developer | Lecture | Independent Writer
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperLangdon&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_title" alt="Langdon's GitHub stats"/>
